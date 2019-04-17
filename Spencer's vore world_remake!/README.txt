@@ -1,4 +1,4 @@
-To play simply download this folder and click on the exe
+To play simply download the folder and click on the exe
 
 wasd or arrows to move
 x to kill
